@@ -1,5 +1,5 @@
 
-_E-commerce de Beleza criado para o primeiro Projeto Prático do **Desenvolve 2024**._ 
+_E-commerce de Beleza responsivo e interativo criado para o primeiro Projeto Prático do **Desenvolve 2024**._ 
 _Bem vindo(a) a Miss Beauty!_ 💎
 
 Tecnologias:
